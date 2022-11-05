@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShamsadAlam
 - 👀 I’m interested in Web-Technologies and Competitive Programming.
-- 🌱 I’m currently learning CIST at IET MJPRU '24.
+- 🌱 I’m currently learning CSIT at IET MJPRU '24.
 - 💞️ I’m looking to collaborate on Open Source Contribution.
 - 📫 How to reach me Here is my linkedin URL - https://www.linkedin.com/in/shamsad-alam-272740209/
 
