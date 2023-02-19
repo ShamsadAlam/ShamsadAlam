@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shamsad Alam, B.Tech 3rd Year Student at Mahatma Jyotiba Phule Rohilkhand University Bareilly. I am a Full-Stack MERN developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Shamsad Alam, B.Tech 3rd Year Student of Computer Science and Information TechnologyEngineering at Mahatma Jyotiba Phule Rohilkhand University Bareilly. I am a Full-Stack (MERN) developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-shamsad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shamsad-alam-272740209/)](https://www.linkedin.com/in/shamsad-alam-272740209/)
 [![Gmail Badge](https://img.shields.io/badge/-shamsad_mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nobleperson.dev@gmail.com)](mailto:nobleperson.dev@gmail.com)
