@@ -84,5 +84,3 @@ Find out more about me & feel free to connect here:
 🎯 [CodeChef](https://www.codechef.com/users/nobleperson786/)  
 
 ---
-
-This version reflects that you are a **2024 graduate** and have **completed your internship** while keeping it structured and engaging. Let me know if you need any more tweaks! 🚀
